@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+                
+/* TEAM */
+                            
+Your title: Joseph Fleet                       
+Site: wizardfree.uk                
+Location: Wiltshire, United Kingdom
+
+
+/* SITE */
+
+Last update: YYYY/MM/D
+Standards: CSS3, HTML5
+Components: Apache Server Configs, jQuery, Modernizr, Normalize.css
+Software: VSCodium
